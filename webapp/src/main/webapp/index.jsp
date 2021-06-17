@@ -5,4 +5,6 @@
 <h1> Good job Serge on learning Devops</h1>
 <h1> Devops is very interesting</h1>
 <h2> I cant wait for the next level in my career</h2>
-<h2> this line is for docker test<</h2>
+<h2> this line is for docker test</h2>
+<h1> I sucessfully created a docker image to my docker registry.</h1>
+
